@@ -1,0 +1,12 @@
+Dependencies for Project 'm0', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_CMSDK_CM0.s)(0x63F5CE2F)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\keil5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.0\Device\CMSDK_CM0\Include-ID:\keil5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\startup_cmsdk_cm0.o --depend .\startup_cmsdk_cm0.d)
+F (.\User\main.c)(0x63F5FF41)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\User-I.\RTE\_Target_1-ID:\keil5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.0\Device\CMSDK_CM0\Include-ID:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (User\main.h)(0x63F4C6E2)
+I (User\gpio.h)(0x63F5DCFB)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (D:\keil5\ARM\ARMCC\include\string.h)(0x54C245B8)
+F (.\User\main.h)(0x63F4C6E2)()
+F (.\User\gpio.c)(0x63F5D40A)(--c99 --gnu -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\User-I.\RTE\_Target_1-ID:\keil5\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.8.0\Device\CMSDK_CM0\Include-ID:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DCMSDK_CM0-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (User\gpio.h)(0x63F5DCFB)
+I (D:\keil5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+F (.\User\gpio.h)(0x63F5DCFB)()
